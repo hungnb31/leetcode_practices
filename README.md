@@ -1,6 +1,4 @@
-# Leetcode Practices
-All of my answers to leetcode questions and challenges
-# Leetcode Problems
+# Resolved Problems
 **TOTAL**: **4**
 > **Easy**: **2** :sparkles:\
 > **Medium**: **2** :metal:\
