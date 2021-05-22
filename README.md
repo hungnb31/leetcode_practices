@@ -1,5 +1,3 @@
-# Leetcode Practices
-All of my answers to leetcode questions and challenges
 # Leetcode Problems
 **TOTAL**: **3**
 > **Easy**: **1** :sparkles:\
