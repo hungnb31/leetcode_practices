@@ -1,7 +1,7 @@
 # Resolved Problems
-**TOTAL**: **6**
+**TOTAL**: **7**
 > **Easy**: **4** :sparkles:\
-> **Medium**: **2** :metal:\
+> **Medium**: **3** :metal:\
 > **Hard**: **0** :tada:
 
 
@@ -13,3 +13,4 @@ Title | Difficulty | Code | Date | Language
 [**Length Of Last Word**](https://leetcode.com/problems/length-of-last-word) | **EASY** | [view code](problems/length_of_last_word.js) | 22/05/21 | <img src="icons/javascript.png" alt="drawing" width="20"/> 
 [**Reverse Integer**](https://leetcode.com/problems/reverse-integer) | **EASY** | [view code](problems/reverse_integer.js) | 24/05/21 | <img src="icons/javascript.png" alt="drawing" width="20"/> 
 [**Palindrome Number**](https://leetcode.com/problems/palindrome-number) | **EASY** | [view code](problems/palindrome_number.py) | 26/05/21 | <img src="icons/python.png" alt="drawing" width="20"/> 
+[**Remove Nth Node From End Of List**](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | **MEDIUM** | [view code](problems/remove_nth_node_end.py) | 30/05/21 | <img src="icons/python.png" alt="drawing" width="20"/> 
