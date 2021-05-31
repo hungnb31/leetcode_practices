@@ -1,6 +1,6 @@
 # Resolved Problems
-**TOTAL**: **7**
-> **Easy**: **4** :sparkles:\
+**TOTAL**: **8**
+> **Easy**: **5** :sparkles:\
 > **Medium**: **3** :metal:\
 > **Hard**: **0** :tada:
 
@@ -14,3 +14,4 @@ Title | Difficulty | Code | Date | Language
 [**Reverse Integer**](https://leetcode.com/problems/reverse-integer) | **EASY** | [view code](problems/reverse_integer.js) | 24/05/21 | <img src="icons/javascript.png" alt="drawing" width="20"/> 
 [**Palindrome Number**](https://leetcode.com/problems/palindrome-number) | **EASY** | [view code](problems/palindrome_number.py) | 26/05/21 | <img src="icons/python.png" alt="drawing" width="20"/> 
 [**Remove Nth Node From End Of List**](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | **MEDIUM** | [view code](problems/remove_nth_node_end.py) | 30/05/21 | <img src="icons/python.png" alt="drawing" width="20"/> 
+[**Remove Duplicate From Sorted Array**](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | **EASY** | [view code](problems/remove_duplicate_from_sorted_array.py) | 31/05/21 | <img src="icons/python.png" alt="drawing" width="20"/> 
